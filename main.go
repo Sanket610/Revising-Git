@@ -1,1 +1,3 @@
+package gitdemo
+
 func main() {}
